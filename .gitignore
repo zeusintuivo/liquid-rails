@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.gem
 *.rbc
 .bundle
@@ -19,6 +20,9 @@ tmp/
 .ruby-gemset
 gemfiles/*.gemfile.lock
 .rbc
+=======
+*.rbc
+>>>>>>> 88f1b44b60f959bb78df49e96136cfa65e888f8c
 capybara-*.html
 .rspec
 /db/*.sqlite3
