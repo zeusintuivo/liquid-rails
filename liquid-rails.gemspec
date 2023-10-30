@@ -27,6 +27,8 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "liquid", [">= 3.0", "!= 5.0.0", "< 6.0"]
 
   spec.add_development_dependency "sprockets-rails"
+  # spec.add_development_dependency "liquid_lint", "~> 1.0.0", github: "zeusintuivo/liquid-lint" 
+  spec.add_development_dependency "liquid_lint", "~> 1.0.0"
   spec.add_development_dependency "rocco"
   spec.add_development_dependency "psych", [">= 3.0"]
   spec.add_development_dependency "redcarpet"
